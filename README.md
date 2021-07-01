@@ -1,2 +1,2 @@
 # G10-Support
-G10 Support es un bot encargado de ser el bot de soporte OFICIAL del servidor G10 Esports --> https://discord.io/G10E
+G10 Support is a bot in charge of being the OFFICIAL support bot of the G10 Esports server --> https://discord.io/G10E
